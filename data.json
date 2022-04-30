@@ -1,5 +1,4 @@
-{
-    "faq" : [
+
       {
          "question": "How to create flashcard",
          "answer": "Click on the add card button."
@@ -13,5 +12,3 @@
         "question": "How to see flashcard answer",
         "answer": "Click on the card and it will flip the card."
       }
-    ]
-  }
